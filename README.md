@@ -15,8 +15,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **JavaScript**
-
 - 📫 How to reach me **ehmedosmanov@gmail.com**
 
 <br>
