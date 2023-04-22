@@ -66,7 +66,7 @@
     </td>
       <td align="center" width="96">
       <a href="#axhmed-stack">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Tailwind
     </td>
