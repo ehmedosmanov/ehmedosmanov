@@ -64,6 +64,12 @@
       </a>
       <br>Bootstrap
     </td>
+      <td align="center" width="96">
+      <a href="#axhmed-stack">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Tailwind
+    </td>
      <td align="center" width="96"> 
       <a href="#axhmed-stack" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
