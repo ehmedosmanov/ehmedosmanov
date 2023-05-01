@@ -3,7 +3,7 @@
 <div>
 
 </div>
-
+ 
 <h2 align="left">A frontend developer from Azerbaijan</h2>
 <a>
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="" align="right" width="400"/>
