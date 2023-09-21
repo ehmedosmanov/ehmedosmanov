@@ -103,6 +103,36 @@
   </tr> 
 </table>
 
+>  Backend
+ 
+<table width='100%'> 
+    <tr>
+    <td align="center" width="96">
+      <a href="#axhmed-stack">
+        <img src="https://files.brandlogos.net/svg/Hv9NWCdaxf/c-sharp-logo-brandlogos.net_2ciengjj3.svg" width="48" height="48" alt="C#" />
+      </a>
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <a href="#axhmed-stack">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="48" height="48" alt="ASPNET" />
+      </a>
+      <br>.NET CORE 
+    </td>
+     <td align="center" width="96">
+      <a href="#axhmed-stack">
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48" height="48" alt="SQL" />
+      </a>
+      <br>MS SQL SERVER
+    <!--</td>
+          <td align="center" width="96">
+      <a href="#axhmed-stack">
+        <img src="https://brandslogos.com/wp-content/uploads/images/large/docker-logo.png" width="48" height="48" alt="ASPNET" />
+      </a>
+      <br>Docker
+    </td>-->
+  </tr> 
+</table>
 ## :comet: Contact
 <a href="#">
   <img align="right"/>
