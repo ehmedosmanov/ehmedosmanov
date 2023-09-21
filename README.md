@@ -4,7 +4,7 @@
 
 </div>
  
-<h2 align="left">FullSTACK developer from Azerbaijan</h2>
+<h2 align="left">FullStack developer from Azerbaijan</h2>
 <a>
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="" align="right" width="400"/>
 </a>
@@ -117,7 +117,7 @@
       <a href="#axhmed-stack">
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="48" height="48" alt="ASPNET" />
       </a>
-      <br>.NET CORE 
+      <br>.Ner CORE 
     </td>
      <td align="center" width="96">
       <a href="#axhmed-stack">
