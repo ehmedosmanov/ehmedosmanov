@@ -117,7 +117,7 @@
       <a href="#axhmed-stack">
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="48" height="48" alt="ASPNET" />
       </a>
-      <br>.Ner CORE 
+      <br>.Net Core 
     </td>
      <td align="center" width="96">
       <a href="#axhmed-stack">
