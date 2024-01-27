@@ -1,157 +1,39 @@
-<h1 align="left">Hi 👋, I'm Ahmad Osmanov</h1>
+Hi 👋 My name is Ahmed Osmanov
+==============================
 
-<div>
+FrontEnd developer from Azerbaijan
+----------------------------------
 
-</div>
- 
-<h2 align="left">FullStack developer from Azerbaijan</h2>
-<a>
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="" align="right" width="400"/>
-</a>
-<br>
-<br>
-<br>
+* 🌍  I'm based in Azerbaijan, Baku
+* ✉️  You can contact me at [ehmedosmanov@gmail.com](mailto:ehmedosmanov@gmail.com)
+* ⚡  I’m interested in React, TypeScript, NextJS, NodeJS, Express
+
+### Skills
 
 
-- 🌱 I’m currently learning **React**
-
-- 📫 How to reach me **ehmedosmanov@gmail.com**
-
-<br>
-<br>
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+</p>
 
 
+### Socials
 
-<h2 align="left" id="axhmed-stack">Tech stack</h2>
+<p align="left"> <a href="https://www.github.com/ehmedosmanov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ehmedosmanov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
->  General
- 
-<table width='100%'>
-  <tr>
-    <td align="center" width="96">
-      <a href="#axhmed-stack" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
-      </a>
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <a href="#axhmed-stack" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96"> 
-      <a href="#axhmed-stack" >
-        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="48" height="48" alt="npm" />
-      </a>
-      <br>Npm
-    </td>
-     <td align="center" width="96"> 
-      <a href="#axhmed-stack" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" width="48" height="48" alt="github" />
-      </a>
-      <br>Github
-  </tr> 
-</table>
+### Badges
 
->  Frontend
- 
-<table width='100%'> 
-    <tr>
-    <td align="center" width="96">
-      <a href="#axhmed-stack">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-      <td align="center" width="96">
-      <a href="#axhmed-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Tailwind
-    </td>
-     <td align="center" width="96"> 
-      <a href="#axhmed-stack" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
-      </a>
-      <br>Css3
-    </td>
-    <td align="center" width="96">
-      <a href="#axhmed-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
-      </a>
-      <br>Html5
-    </td>
-    <td align="center" width="96">
-      <a href="#axhmed-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript"/>
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#axhmed-stack">
-        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-      </td>
-      <td align="center" width="96">
-      <a href="#axhmed-stack">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
-      </a>
-      <br>React JS
-    </td>
-  </tr> 
-</table>
+<b>My GitHub Stats</b>
 
->  Backend
- 
-<table width='100%'> 
-    <tr>
-    <td align="center" width="96">
-      <a href="#axhmed-stack">
-        <img src="https://files.brandlogos.net/svg/Hv9NWCdaxf/c-sharp-logo-brandlogos.net_2ciengjj3.svg" width="48" height="48" alt="C#" />
-      </a>
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <a href="#axhmed-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="48" height="48" alt="ASPNET" />
-      </a>
-      <br>.Net Core 
-    </td>
-     <td align="center" width="96">
-      <a href="#axhmed-stack">
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48" height="48" alt="SQL" />
-      </a>
-      <br>MS SQL SERVER
-    <!--</td>
-          <td align="center" width="96">
-      <a href="#axhmed-stack">
-        <img src="https://brandslogos.com/wp-content/uploads/images/large/docker-logo.png" width="48" height="48" alt="ASPNET" />
-      </a>
-      <br>Docker
-    </td>-->
-  </tr> 
-</table>
-##:comet: Contact
-<a href="#">
-  <img align="right"/>
-</a>
+<a href="http://www.github.com/ehmedosmanov"><img src="https://github-readme-stats.vercel.app/api?username=ehmedosmanov&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ehmedosmanov's GitHub stats" /></a>
 
-- :comet: &nbsp;**[Github](https://github.com/KaidoOP)**
+<a href="http://www.github.com/ehmedosmanov"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ehmedosmanov&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-- :camera: &nbsp;**[Instagram](https://www.instagram.com/axhmed09/)**
+<a href="https://github.com/ehmedosmanov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehmedosmanov&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-- # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ehmedosmanov&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ehmedosmanov&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ehmedosmanov&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<b>Top Repositories</b>
 
----
-[![](https://visitcount.itsvg.in/api?id=ehmedosmanov&icon=0&color=0)](https://visitcount.itsvg.in)
+<div width="100%" align="center"><a href="https://github.com/ehmedosmanov/HospitalManagmentSystem" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ehmedosmanov&repo=HospitalManagmentSystem&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ehmedosmanov/Cafena" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ehmedosmanov&repo=Cafena&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br /><br /><br /><br /><br />
 
-<br>
-
-
+<div width="100%" align="center"><a href="https://github.com/ehmedosmanov/Pronia" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ehmedosmanov&repo=Pronia&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
