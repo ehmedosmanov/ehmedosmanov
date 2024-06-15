@@ -1,4 +1,4 @@
-Hi 👋 My name is Ahmed Osmanov
+Hi 👋 My name is Ahmad Osmanov
 ==============================
 
 FrontEnd developer from Azerbaijan
