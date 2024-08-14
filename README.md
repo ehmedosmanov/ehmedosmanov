@@ -1,7 +1,7 @@
 Hi 👋 My name is Ahmad Osmanov
 ==============================
 
-FrontEnd developer from Azerbaijan
+Front-End developer from Azerbaijan
 ----------------------------------
 
 * 🌍  I'm based in Azerbaijan, Baku
