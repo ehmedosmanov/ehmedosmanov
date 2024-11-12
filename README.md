@@ -26,9 +26,6 @@ I am **Ahmad Osmanov**, a dedicated Front-End Developer based in **Baku, Azerbai
   <summary>🌐 <strong>Connect with Me</strong></summary>
   <br>
   <p>
-    <a href="https://github.com/ehmedosmanov" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" alt="GitHub" />
-    </a>
     <a href="https://www.linkedin.com/in/ehmedosmanov" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" alt="LinkedIn" />
     </a>
