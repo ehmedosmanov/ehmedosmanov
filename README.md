@@ -1,8 +1,8 @@
 # Hi there, I'm Ahmad Osmanov 👋
 
-## Front-End Developer from Azerbaijan
+## Software Engineer from Azerbaijan
 
-I am **Ahmad Osmanov**, a dedicated Front-End Developer based in **Baku, Azerbaijan**. With a strong focus on building interactive and user-friendly web applications, I enjoy crafting solutions that not only meet client requirements but also enhance user experience.
+I am **Ahmad Osmanov**, a dedicated Software Engineer based in **Baku, Azerbaijan**. With a strong focus on building interactive and user-friendly web applications, I enjoy crafting solutions that not only meet client requirements but also enhance user experience.
 
 - 💻 Experienced in developing applications using **React**, **NextJS**, and **TypeScript**
 - 🌱 Constantly learning and staying up-to-date with the latest industry trends
