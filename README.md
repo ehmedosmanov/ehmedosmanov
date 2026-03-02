@@ -1,12 +1,17 @@
 # Hi there, I'm Ahmad Osmanov 👋
 
-## Software Engineer from Azerbaijan
+## Software Engineer based in Tartu, Estonia 🇪🇪
 
-I am **Ahmad Osmanov**, a dedicated Software Engineer based in **Baku, Azerbaijan**. With a strong focus on building interactive and user-friendly web applications, I enjoy crafting solutions that not only meet client requirements but also enhance user experience.
+I am **Ahmad Osmanov**, a dedicated Software Engineer currently based in **Tartu, Estonia**. I focus on building interactive and user-friendly web applications that deliver real business value and great user experience.
 
-- 💻 Experienced in developing applications using **React**, **NextJS**, and **TypeScript**
-- 🌱 Constantly learning and staying up-to-date with the latest industry trends
-- 🤝 Open to collaborating on projects that make a positive impact
+---
+
+### 💻 Professional Focus
+
+- Experienced with **React**, **Next.js**, **TypeScript** and **Node.js**
+- 🚀 Passionate about scalable web applications and clean architecture
+- 🌱 Continuously learning and improving my engineering skills
+- 🤝 Open to collaboration on impactful and innovative projects
 
 ✉️ Reach me at [ehmedosmanov@gmail.com](mailto:ehmedosmanov@gmail.com)
 
