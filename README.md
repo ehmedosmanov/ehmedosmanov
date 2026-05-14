@@ -29,19 +29,11 @@ I am **Ahmad Osmanov**, a dedicated Software Engineer currently based in **Tartu
 ### 🌐 Connect with Me
   <br>
   <p>
-    <a href="https://www.linkedin.com/in/ehmedosmanov" target="_blank" rel="noreferrer">
+    <a href="https://www.linkedin.com/in/ahmadosmanov" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" alt="LinkedIn" />
     </a>
   </p>
 
-
-### 📊 GitHub Stats
-  <br>
-  <p style="display: flex; justify-content: start;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ehmedosmanov&show_icons=true&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&theme=radical" alt="Ahmad's GitHub stats" />
-    &nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehmedosmanov&langs_count=8&layout=compact&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&theme=radical" alt="Top Languages" />
-  </p>
 
 
 ---
